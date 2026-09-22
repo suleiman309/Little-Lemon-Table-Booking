@@ -53,12 +53,6 @@ src/
   components/Main.js  # Routes and booking state
 ```
 
-## GitHub submission (Coursera)
-
-1. Push this project to **your own** GitHub repository (not a fork you cannot control).
-2. On Coursera → **My submission**, paste the repository URL.
-3. Confirm peers can clone and run `npm install` and `npm start`.
-
 ## License
 
 Educational project for the Meta Front-End Developer Professional Certificate.
